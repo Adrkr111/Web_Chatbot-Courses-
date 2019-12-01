@@ -1,0 +1,7 @@
+Index,course_id,name,Duration,PreRequisites,FEES,Details,Link
+0,CS101,Data Science,30-days,Good Programing Knowledge,6000,"Python basic,Libraries,data importing,cleaning etc",https://nimbletech.org/course-details/49/datascience-ml-using-python
+1,CS102,Machine Learning,30-days,Python or R,9000,"Learning-SuperVised,UnsuperVised,Semi-SuperVised,Re-inforcement,Algorithms",https://nimbletech.org/course-details/49/datascience-ml-using-python
+2,CS103,Big Data,30-days,Java and Sql and Unix,12000,"Introduction to Hadoop,MapReduce,Pig,Hive,HDFS,Clusttering",https://nimbletech.org/course-details/10/bigdata-hadoop-dev
+3,CS104,Cloud-Computing,30-days,Networking and linux,7000,"Introduction to AWS-services ,Advanced Networking",https://nimbletech.org/course-details/45/cloud-computing-aws
+4,CS105,Python,20-days,C or C++ or Java,5500,"4th Gen Language Python Programing is the Key to data Science ",https://nimbletech.org/course-details/47/python-programming
+5,CS106,Core-Java,30-days,C or C++,6000,"Introduction to OOP concept developed by James Gosling",https://nimbletech.org/course-details/42/core-java
